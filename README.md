@@ -7,6 +7,9 @@ This is a simple YouTube downloader that allows you to download videos from YouT
 ```bash
 git clone https://github.com/therealmarius/Youtube-Downloader.git
 ```
+```bash
+python3 -m pip install pytube
+```
 ## Usage
 ```bash
 python3 main.py youryoutubeurl.com
